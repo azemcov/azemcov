@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Привет 👋, я Александр Земцов!</h1>
 
-<!--
-**azemcov/azemcov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  Мои контакты:
+  <br />
+  <a href="google.com"
+    ><img
+      src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97"
+      alt="GMAIL"
+      height="50px"
+  /></a>
+</div>
+
+
+🚀 Codewars: [![screenshot of sample](https://www.codewars.com/users/azemcov/badges/micro)](https://www.codewars.com/users/azemcov)
