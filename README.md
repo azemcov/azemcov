@@ -19,14 +19,16 @@
 <br />
 <br />
 
-🔍 Я ищу работу forntend-разработчика удалённо или в офисе в Санкт-Петербурге
+- 🔍 Я ищу работу forntend-разработчика удалённо или в офисе в Санкт-Петербурге
 <br />
-📝 Моё резюме на [hh.ru](https://spb.hh.ru/resume/f3b7f8bdff0d9449eb0039ed1f755871634e48)
+
+- 📝 Моё резюме на [hh.ru](https://spb.hh.ru/resume/f3b7f8bdff0d9449eb0039ed1f755871634e48)
 <br />
-🚀 Codewars: [![screenshot of sample](https://www.codewars.com/users/azemcov/badges/micro)](https://www.codewars.com/users/azemcov)
+
+- 🚀 Codewars: [![screenshot of sample](https://www.codewars.com/users/azemcov/badges/micro)](https://www.codewars.com/users/azemcov)
 <br />
 <br />
-<br />
+
 ### ⚙️ Я использую технологии:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50px"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50px"></img>
