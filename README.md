@@ -5,13 +5,13 @@
   <br />
   <a href="google.com"
     ><img
-      src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
       alt="GMAIL"
       height="50px"
   /></a>
     <a href="google.com"
     ><img
-      src="https://osx.telegram.org/updates/site/logo.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"
       alt="GMAIL"
       height="50px"
   /></a>
@@ -29,5 +29,11 @@
 <br />
 <br />
 ⚙️ Я использую технологии:
-
+<br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="50px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50px"></img>
 
