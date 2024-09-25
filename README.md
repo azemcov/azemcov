@@ -11,7 +11,14 @@
       alt="GMAIL"
       height="50px"
   /></a>
+    <a href="google.com"
+    ><img
+      src="https://osx.telegram.org/updates/site/logo.png"
+      alt="GMAIL"
+      height="50px"
+  /></a>
 </div>
 
-
+🔍 Я ищу работу forntend-разработчика удалённо или в офисе в Санкт-Петербурге
+<br />
 🚀 Codewars: [![screenshot of sample](https://www.codewars.com/users/azemcov/badges/micro)](https://www.codewars.com/users/azemcov)
