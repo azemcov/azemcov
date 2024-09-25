@@ -1,8 +1,7 @@
 <h1 align="center">Привет 👋, я Александр Земцов!</h1>
 
 <div align="center">
-  Мои контакты:
-  <br />
+  <h3>Мои контакты:</h3>
   <a href="google.com"
     ><img
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
@@ -28,8 +27,7 @@
 <br />
 <br />
 <br />
-⚙️ Я использую технологии:
-<br />
+### ⚙️ Я использую технологии:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50px"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50px"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50px"></img>
