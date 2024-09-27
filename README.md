@@ -8,7 +8,7 @@
       alt="GMAIL"
       height="50px"
   /></a>
-    <a href="google.com"
+    <a href="https://t.me/a_zemcov"
     ><img
       src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"
       alt="GMAIL"
