@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Мои контакты:</h3>
-  <a href="google.com"
+  <a href="mailto:a.zemcov@gmail.com"
     ><img
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
       alt="GMAIL"
