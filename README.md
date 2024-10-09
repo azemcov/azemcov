@@ -27,6 +27,12 @@
 
 - 🚀 Codewars: [![screenshot of sample](https://www.codewars.com/users/azemcov/badges/micro)](https://www.codewars.com/users/azemcov)
 <br />
+
+- ⚙️ Мои петпроекты:<br />
+[Интерфейс для квиза](https://azemcov.github.io/quiz_Svoya_Igra/)<br />
+[Тетрис](https://azemcov.github.io/TETRIS/)
+<br />
+<br />
 <br />
 
 ### ⚙️ Я использую технологии:
