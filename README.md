@@ -29,8 +29,8 @@
 <br />
 
 - ⚙️ Мои pet-проекты:<br />
-[Интерфейс для квиза](https://azemcov.github.io/quiz_Svoya_Igra/)<br />
-[Тетрис](https://azemcov.github.io/TETRIS/)
+[Интерфейс для квиза](https://github.com/azemcov/-REACT-quiz_Svoya_Igra)<br />
+[Тетрис](https://github.com/azemcov/-REACT-TETRIS)
 <br />
 <br />
 <br />
