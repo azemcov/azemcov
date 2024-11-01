@@ -29,7 +29,7 @@
 <br />
 
 - ⚙️ Мои pet-проекты:<br />
-[Информационная система для проверки знаний учащихся школы]([readme](https://azemcov.github.io/REACT-TEST/))<br />
+[Информационная система для проверки знаний учащихся школы](https://azemcov.github.io/REACT-TEST/)<br />
 [Интерфейс для квиза](https://github.com/azemcov/-REACT-quiz_Svoya_Igra)<br />
 [Тетрис](https://github.com/azemcov/-REACT-TETRIS)
 <br />
