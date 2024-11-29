@@ -45,3 +45,4 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="50px"></img></a>
 <a href="https://getbootstrap.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="50px"></img></a>
 <a href="https://v2.vitejs.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="50px"></img></a>
+<a href="https://redux.js.org/tutorials/quick-start"> <img src="https://redux.js.org/img/redux.svg" height="50px"></img></a>
