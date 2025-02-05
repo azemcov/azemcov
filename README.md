@@ -28,10 +28,11 @@
 - 🚀 Codewars: [![screenshot of sample](https://www.codewars.com/users/azemcov/badges/micro)](https://www.codewars.com/users/azemcov)
 <br />
 
-- ⚙️ Мои pet-проекты:<br />
-[Информационная система для проверки знаний учащихся школы](https://github.com/azemcov/REACT-TEST)<br />
-[Интерфейс для квиза](https://github.com/azemcov/-REACT-quiz_Svoya_Igra)<br />
-[Тетрис](https://github.com/azemcov/-REACT-TETRIS)
+- ⚙️ Примеры моих работ:<br />
+  - [Информационная система для проверки знаний учащихся школы](https://azemcov.github.io/REACT-TEST/) <br />
+  - [Интерфейс для квиза](https://azemcov.github.io/quiz-svoya-igra/) <br />
+  - [Адаптивная вёрстка](https://azemcov.github.io/Van-Gogh-Test/) <br />
+  - [Тетрис](https://azemcov.github.io/TETRIS/) <br />
 <br />
 <br />
 <br />
